@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tommaso</h1>
-<h3 align="center">An student and developer from Columbus, Ohio</h3>
+<h1 align="center">Hi 👋, I'm Tom</h1>
+<h3 align="center">A grad-student developer from Columbus, Ohio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgraewe&label=Profile%20views&color=0e75b6&style=flat" alt="tgraewe" /> </p>
 
-- 🔭 I’m currently working on **My React portfolio**
+- 🔭 I’m currently working on **Freelance Projects**
 
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://tommasoweb.dev](https://tommasoweb.dev)
 
-- 📫 How to reach me **tommaso.graewe@gmail.com**
+- 📫 How to reach me **tgraewe@proton.me**
 
 - 📄 Know about my experiences [https://tommasoweb.dev/files/tommaso-resume.pdf](https://tommasoweb.dev/files/tommaso-resume.pdf)
 
-- ⚡ Fun fact **I play the souls games 𒉭🔥**
+- ⚡ Fun fact **I like watching F1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

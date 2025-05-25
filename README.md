@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://tommasoweb.dev](https://tommasoweb.dev)
+- 👨‍💻 All of my projects are available at [https://www.tgraewe.dev](https://www.tgraewe.dev)
 
 - 📫 How to reach me **tgraewe@proton.me**
 

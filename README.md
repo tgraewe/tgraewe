@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A grad-student and developer from Columbus, Ohio</h3>
+<h3 align="center">A Gradstudent and developer from Columbus, Ohio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgraewe&label=Profile%20views&color=0e75b6&style=flat" alt="tgraewe" /> </p>
 
@@ -11,13 +11,11 @@
 
 - 📫 How to reach me **tgraewe@proton.me**
 
-- 📄 Know about my experiences [https://tommasoweb.dev/files/tommaso-resume.pdf](https://tommasoweb.dev/files/tommaso-resume.pdf)
-
-- ⚡ Fun fact **I like watching F1**
+- 🔥 Fun fact **I like watching Game of Thrones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tommaso-graewe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommaso graewe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tgraewe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tommaso graewe" height="30" width="40" /></a>
 <a href="https://instagram.com/tommaso.graewe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tommaso.graewe" height="30" width="40" /></a>
 </p>
 

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgraewe&label=Profile%20views&color=0e75b6&style=flat" alt="tgraewe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgraewe" alt="tgraewe" /></a> </p>
-
 - 🍯 I’m currently working on **a Honeypot IoT Project**
 
 - 🛜 I’m currently studying for **my CCNA**

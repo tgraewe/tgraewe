@@ -5,7 +5,7 @@
 
 - ✍️ I’m currently studying for the **CCNA**
 
-- 👨‍💻 All of my projects are available at [tgraewe.dev/works](https://tgraewe.dev/works)
+- ⚡ All of my projects are available at [tgraewe.dev/works](https://tgraewe.dev/works)
 
 - 📫 How to reach me **tommaso.graewe@gmail.com**
 
